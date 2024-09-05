@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "broadway";
+  src: url("../public/font/BroadwayRegular.ttf");
+}
+@font-face {
+  font-family: "subHeadingFont";
+  src: url("../public/font/font1.woff2");
+}
+
+@font-face {
+  font-family: "headingFont";
+  src: url("../public/font/font2.woff2");
+}
