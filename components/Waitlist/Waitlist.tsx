@@ -2,7 +2,7 @@ import React from "react";
 
 const Waitlist = () => {
   return (
-    <div className=" flex flex-col content-center items-center justify-center px-32 bg-waitlistBg ">
+    <div className=" flex flex-col content-center items-center justify-center px-40  bg-waitlistBg ">
       <div>
         <h1 className="font-customHeading w-full text-3xl p-10">
           Dare Yourself
