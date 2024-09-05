@@ -23,6 +23,7 @@ const config: Config = {
         base: "1rem",
         xl: "1.25rem",
         "2xl": "2rem",
+        "2.5xl": "2.5rem",
         "3xl": "3rem",
         "4xl": "4rem",
         "5xl": "5rem",
@@ -39,6 +40,11 @@ const config: Config = {
       },
       backgroundColor: {
         landingBg: "#70a9a1",
+        waitlistBg: "#40798C",
+      },
+      colors: {
+        primary: "#CFE0C3",
+        secondary: "#FFFFFF",
       },
     },
   },
